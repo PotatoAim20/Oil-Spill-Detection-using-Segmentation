@@ -1,5 +1,7 @@
 # Oil Spill Detection Using Segmentation
 
+![7e33dad7-3bf3-4c16-8f55-881315d65da1](https://github.com/PotatoAim20/Oil-Spill-Detection-using-Segmentation/assets/119634635/63cd2009-6a45-48ec-99d8-69ef95d1a8ec)
+
 This repository contains code and data for detecting oil spills in SAR images using segmentation techniques. The project utilizes three different models: U-Net, DeepLabV3, and PSPNet, to achieve accurate segmentation.
 
 ## Data
